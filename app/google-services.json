@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1036319139618",
+    "firebase_url": "https://powderguru-b0397.firebaseio.com",
+    "project_id": "powderguru-b0397",
+    "storage_bucket": "powderguru-b0397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036319139618:android:c32cf9ee1e0fc85b",
+        "android_client_info": {
+          "package_name": "com.example.koen.powderguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036319139618-7sfvuts5uglvefs7t8o01agbv24qtkb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.koen.powderguru",
+            "certificate_hash": "07D29334768EFA94DA5FD4444C81A98DBC789815"
+          }
+        },
+        {
+          "client_id": "1036319139618-55s0occtu3pm8617j5c9dt6j5h0e76vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDao_6Mm02xKZ4dyRzVUGcvMD4WhJ2HHrs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036319139618-55s0occtu3pm8617j5c9dt6j5h0e76vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
